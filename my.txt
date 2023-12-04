@@ -1,80 +1,80 @@
 insan
-bicycle
-car
-motorcycle
-airplane
-bus
-train
-truck
-boat
-traffic light
-fire hydrant
-stop sign
-parking meter
-bench
-bird
-cat
-dog
-horse
-sheep
-cow
-elephant
-bear
+bisiklet
+araba
+motorbisiklet
+uçak
+ototbüs
+tren
+tır
+bot
+trafik ışığı
+yangın musluğu
+dur işareti
+parkmetre
+bank
+kuş
+kedi
+köpek
+at
+koyun
+inek
+fil
+ayı
 zebra
-giraffe
-backpack
-umbrella
-handbag
-tie
-suitcase
-frisbee
-skis
+zürafa
+sırtçantası
+şemsiye
+el çantası
+kravat
+bavul
+frizbi
+kayak
 snowboard
-sports ball
-kite
-baseball bat
-baseball glove
-skateboard
-surfboard
-tennis racket
-bottle
-wine glass
-cup
-fork
-knife
-spoon
-bowl
-banana
-apple
-sandwich
-orange
-broccoli
-carrot
-hot dog
+spor topu
+uçurtma
+beysbol sopası
+beysbol eldiveni
+kaykay
+sörf tahtası
+tenis raketi
+şişe
+bardak
+kupa
+çatal
+bıçak
+kaşık
+tabak
+muz
+elma
+sandiviç
+portakal
+brokoli
+havuç
+sosisli
 pizza
 donut
-cake
-chair
-couch
-potted plant
-bed
-dining table
-toilet
+kek
+sandalye
+kanepe
+saksıda bitki
+yatak
+yemek masası
+klozet
 tv
 laptop
 mouse
-remote
-keyboard
+kumanda
+klavye
 telefon
-microwave
-oven
-toaster
-sink
-refrigerator
-book
-clock
-vase
-scissors
-teddy bear
-hair drier
-toothbrush
+mikrodalga
+fırın
+tost makinası
+lavabo
+buzdolabı
+kitap
+saat
+vazo
+makas
+ayıcık
+saç kurutma makinası
+kişisel bakım aleti
